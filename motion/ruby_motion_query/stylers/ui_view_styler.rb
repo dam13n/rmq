@@ -10,6 +10,16 @@ module RubyMotionQuery
       natural: NSTextAlignmentNatural
     }
 
+    CONTENT_HORIZONTAL_ALIGNMENTS = {
+      left: UIControlContentHorizontalAlignmentLeft,
+      right: UIControlContentHorizontalAlignmentRight
+    }
+
+    CONTENT_VERTICAL_ALIGNMENTS = {
+      top: UIControlContentVerticalAlignmentTop,
+      bottom: UIControlContentVerticalAlignmentBottom
+    }
+
     KEYBOARD_TYPES = {
       default: UIKeyboardTypeDefault,
       ascii: UIKeyboardTypeASCIICapable,
