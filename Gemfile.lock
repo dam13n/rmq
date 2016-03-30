@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    ruby_motion_query (1.6.1)
+    ruby_motion_query (1.7.0)
 
 GEM
   remote: https://rubygems.org/
@@ -14,6 +14,3 @@ PLATFORMS
 DEPENDENCIES
   rake
   ruby_motion_query!
-
-BUNDLED WITH
-   1.10.6
